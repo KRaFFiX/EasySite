@@ -1,0 +1,4 @@
+# only for testing purposes
+language: php
+script:
+  - echo "Running PHPUnit Tests"
